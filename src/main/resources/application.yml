@@ -1,0 +1,19 @@
+spring:
+  spring-doc:
+    swagger-ui:
+      disable-swagger-default-url: true
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: 123
+  sql:
+    init:
+      mode: always
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    defer-datasource-initialization: true
+    properties:
+      hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect
