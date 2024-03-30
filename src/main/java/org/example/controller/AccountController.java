@@ -73,6 +73,7 @@ public class AccountController {
                 th.join();
             }
             log.info("30 transactions well done!");
+            countTransactions = 0;
             return "30 transactions well done!";
 
         }

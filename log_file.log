@@ -1,0 +1,109 @@
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=10000
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=10000
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=10000
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=10000
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=dd04f551-88ff-4676-a347-75be9519177f, money=10000
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=10000
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=10000
+2024-03-30 06:53:31 INFO  AccountService:20 - Created new account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=10000
+2024-03-30 06:53:31 INFO  AccountService:50 - Changed account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=9283
+2024-03-30 06:53:31 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=10717
+2024-03-30 06:53:31 INFO  AccountController:39 - Success deposit(717) from account=6bf33be9-1185-4482-a23e-73ae2a042762 to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:53:33 INFO  AccountService:50 - Changed account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=9388
+2024-03-30 06:53:33 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=10612
+2024-03-30 06:53:33 INFO  AccountController:39 - Success deposit(612) from account=734b254a-e448-4ddd-9a24-fa974d33bc9f to account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4
+2024-03-30 06:53:34 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=9987
+2024-03-30 06:53:34 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=10730
+2024-03-30 06:53:34 INFO  AccountController:39 - Success deposit(730) from account=26beee13-f8b3-4d75-9d6b-a81721dcac0b to account=d8e93e79-6487-4f57-9de5-33aa8569ebb8
+2024-03-30 06:53:35 INFO  AccountService:50 - Changed account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=9300
+2024-03-30 06:53:35 INFO  AccountService:50 - Changed account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=10088
+2024-03-30 06:53:35 INFO  AccountController:39 - Success deposit(700) from account=2edc673f-fa67-4ff7-95ec-05e3926ec119 to account=734b254a-e448-4ddd-9a24-fa974d33bc9f
+2024-03-30 06:53:36 INFO  AccountService:50 - Changed account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=8843
+2024-03-30 06:53:36 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=10427
+2024-03-30 06:53:36 INFO  AccountController:39 - Success deposit(440) from account=6bf33be9-1185-4482-a23e-73ae2a042762 to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:53:37 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=10040
+2024-03-30 06:53:37 INFO  AccountService:50 - Changed account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=10660
+2024-03-30 06:53:37 INFO  AccountController:39 - Success deposit(572) from account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4 to account=734b254a-e448-4ddd-9a24-fa974d33bc9f
+2024-03-30 06:53:39 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=9918
+2024-03-30 06:53:39 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=11239
+2024-03-30 06:53:39 INFO  AccountController:39 - Success deposit(812) from account=d8e93e79-6487-4f57-9de5-33aa8569ebb8 to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:53:41 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=9094
+2024-03-30 06:53:41 INFO  AccountService:50 - Changed account with id=dd04f551-88ff-4676-a347-75be9519177f, money=10906
+2024-03-30 06:53:41 INFO  AccountController:39 - Success deposit(906) from account=e097c2dd-b657-4f18-9ebf-0959141bb546 to account=dd04f551-88ff-4676-a347-75be9519177f
+2024-03-30 06:53:42 INFO  AccountService:50 - Changed account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=8369
+2024-03-30 06:53:42 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=10392
+2024-03-30 06:53:42 INFO  AccountController:39 - Success deposit(474) from account=6bf33be9-1185-4482-a23e-73ae2a042762 to account=d8e93e79-6487-4f57-9de5-33aa8569ebb8
+2024-03-30 06:53:43 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=9047
+2024-03-30 06:53:43 INFO  AccountService:50 - Changed account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=10707
+2024-03-30 06:53:43 INFO  AccountController:39 - Success deposit(47) from account=e097c2dd-b657-4f18-9ebf-0959141bb546 to account=734b254a-e448-4ddd-9a24-fa974d33bc9f
+2024-03-30 06:53:45 INFO  AccountService:50 - Changed account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=8595
+2024-03-30 06:53:45 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=11097
+2024-03-30 06:53:45 INFO  AccountController:39 - Success deposit(705) from account=2edc673f-fa67-4ff7-95ec-05e3926ec119 to account=d8e93e79-6487-4f57-9de5-33aa8569ebb8
+2024-03-30 06:53:46 INFO  AccountService:50 - Changed account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=8409
+2024-03-30 06:53:46 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=9233
+2024-03-30 06:53:46 INFO  AccountController:39 - Success deposit(186) from account=2edc673f-fa67-4ff7-95ec-05e3926ec119 to account=e097c2dd-b657-4f18-9ebf-0959141bb546
+2024-03-30 06:53:47 INFO  AccountService:50 - Changed account with id=dd04f551-88ff-4676-a347-75be9519177f, money=9925
+2024-03-30 06:53:47 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=12220
+2024-03-30 06:53:47 INFO  AccountController:39 - Success deposit(981) from account=dd04f551-88ff-4676-a347-75be9519177f to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:53:49 INFO  AccountService:50 - Changed account with id=dd04f551-88ff-4676-a347-75be9519177f, money=9902
+2024-03-30 06:53:49 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=12243
+2024-03-30 06:53:49 INFO  AccountController:39 - Success deposit(23) from account=dd04f551-88ff-4676-a347-75be9519177f to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:53:51 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=9300
+2024-03-30 06:53:51 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=9973
+2024-03-30 06:53:51 INFO  AccountController:39 - Success deposit(740) from account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4 to account=e097c2dd-b657-4f18-9ebf-0959141bb546
+2024-03-30 06:53:53 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=10512
+2024-03-30 06:53:53 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=10558
+2024-03-30 06:53:53 INFO  AccountController:39 - Success deposit(585) from account=d8e93e79-6487-4f57-9de5-33aa8569ebb8 to account=e097c2dd-b657-4f18-9ebf-0959141bb546
+2024-03-30 06:53:55 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=11588
+2024-03-30 06:53:55 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=9955
+2024-03-30 06:53:55 INFO  AccountController:39 - Success deposit(655) from account=26beee13-f8b3-4d75-9d6b-a81721dcac0b to account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4
+2024-03-30 06:53:56 INFO  AccountService:50 - Changed account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=9933
+2024-03-30 06:53:56 INFO  AccountService:50 - Changed account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=9183
+2024-03-30 06:53:56 INFO  AccountController:39 - Success deposit(774) from account=734b254a-e448-4ddd-9a24-fa974d33bc9f to account=2edc673f-fa67-4ff7-95ec-05e3926ec119
+2024-03-30 06:53:57 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=10607
+2024-03-30 06:53:57 INFO  AccountService:50 - Changed account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=9350
+2024-03-30 06:53:57 INFO  AccountController:39 - Success deposit(981) from account=26beee13-f8b3-4d75-9d6b-a81721dcac0b to account=6bf33be9-1185-4482-a23e-73ae2a042762
+2024-03-30 06:53:59 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=9854
+2024-03-30 06:53:59 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=10659
+2024-03-30 06:53:59 INFO  AccountController:39 - Success deposit(704) from account=e097c2dd-b657-4f18-9ebf-0959141bb546 to account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4
+2024-03-30 06:54:01 INFO  AccountService:50 - Changed account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=9093
+2024-03-30 06:54:01 INFO  AccountService:50 - Changed account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=10190
+2024-03-30 06:54:01 INFO  AccountController:39 - Success deposit(840) from account=734b254a-e448-4ddd-9a24-fa974d33bc9f to account=6bf33be9-1185-4482-a23e-73ae2a042762
+2024-03-30 06:54:02 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=10566
+2024-03-30 06:54:02 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=10605
+2024-03-30 06:54:02 INFO  AccountController:39 - Success deposit(93) from account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4 to account=d8e93e79-6487-4f57-9de5-33aa8569ebb8
+2024-03-30 06:54:03 INFO  AccountService:50 - Changed account with id=dd04f551-88ff-4676-a347-75be9519177f, money=9266
+2024-03-30 06:54:03 INFO  AccountService:50 - Changed account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=9819
+2024-03-30 06:54:03 INFO  AccountController:39 - Success deposit(636) from account=dd04f551-88ff-4676-a347-75be9519177f to account=2edc673f-fa67-4ff7-95ec-05e3926ec119
+2024-03-30 06:54:04 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=9892
+2024-03-30 06:54:04 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=11320
+2024-03-30 06:54:04 INFO  AccountController:39 - Success deposit(713) from account=d8e93e79-6487-4f57-9de5-33aa8569ebb8 to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:54:06 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=9337
+2024-03-30 06:54:06 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=10409
+2024-03-30 06:54:06 INFO  AccountController:39 - Success deposit(517) from account=e097c2dd-b657-4f18-9ebf-0959141bb546 to account=d8e93e79-6487-4f57-9de5-33aa8569ebb8
+2024-03-30 06:54:07 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=9617
+2024-03-30 06:54:07 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=11358
+2024-03-30 06:54:07 INFO  AccountController:39 - Success deposit(949) from account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4 to account=d8e93e79-6487-4f57-9de5-33aa8569ebb8
+2024-03-30 06:54:08 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=8693
+2024-03-30 06:54:08 INFO  AccountService:50 - Changed account with id=dd04f551-88ff-4676-a347-75be9519177f, money=9910
+2024-03-30 06:54:08 INFO  AccountController:39 - Success deposit(644) from account=e097c2dd-b657-4f18-9ebf-0959141bb546 to account=dd04f551-88ff-4676-a347-75be9519177f
+2024-03-30 06:54:10 INFO  AccountService:50 - Changed account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=9113
+2024-03-30 06:54:10 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=12026
+2024-03-30 06:54:10 INFO  AccountController:39 - Success deposit(706) from account=2edc673f-fa67-4ff7-95ec-05e3926ec119 to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:54:11 INFO  AccountService:50 - Changed account with id=2edc673f-fa67-4ff7-95ec-05e3926ec119, money=8470
+2024-03-30 06:54:11 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=12669
+2024-03-30 06:54:11 INFO  AccountController:39 - Success deposit(643) from account=2edc673f-fa67-4ff7-95ec-05e3926ec119 to account=26beee13-f8b3-4d75-9d6b-a81721dcac0b
+2024-03-30 06:54:12 INFO  AccountService:50 - Changed account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=10143
+2024-03-30 06:54:12 INFO  AccountService:50 - Changed account with id=9da81964-1aae-49e8-b8c6-bbea46c3a1e4, money=9664
+2024-03-30 06:54:12 INFO  AccountController:39 - Success deposit(47) from account=6bf33be9-1185-4482-a23e-73ae2a042762 to account=9da81964-1aae-49e8-b8c6-bbea46c3a1e4
+2024-03-30 06:54:14 INFO  AccountService:50 - Changed account with id=e097c2dd-b657-4f18-9ebf-0959141bb546, money=8661
+2024-03-30 06:54:14 INFO  AccountService:50 - Changed account with id=dd04f551-88ff-4676-a347-75be9519177f, money=9942
+2024-03-30 06:54:14 INFO  AccountController:39 - Success deposit(32) from account=e097c2dd-b657-4f18-9ebf-0959141bb546 to account=dd04f551-88ff-4676-a347-75be9519177f
+2024-03-30 06:54:15 INFO  AccountService:50 - Changed account with id=d8e93e79-6487-4f57-9de5-33aa8569ebb8, money=10761
+2024-03-30 06:54:15 INFO  AccountService:50 - Changed account with id=6bf33be9-1185-4482-a23e-73ae2a042762, money=10740
+2024-03-30 06:54:15 INFO  AccountController:39 - Success deposit(597) from account=d8e93e79-6487-4f57-9de5-33aa8569ebb8 to account=6bf33be9-1185-4482-a23e-73ae2a042762
+2024-03-30 06:54:16 INFO  AccountService:50 - Changed account with id=26beee13-f8b3-4d75-9d6b-a81721dcac0b, money=12496
+2024-03-30 06:54:16 INFO  AccountService:50 - Changed account with id=734b254a-e448-4ddd-9a24-fa974d33bc9f, money=9266
+2024-03-30 06:54:16 INFO  AccountController:39 - Success deposit(173) from account=26beee13-f8b3-4d75-9d6b-a81721dcac0b to account=734b254a-e448-4ddd-9a24-fa974d33bc9f
+2024-03-30 06:54:18 INFO  AccountController:75 - 30 transactions well done!
+2024-03-30 06:57:19 INFO  Main:21 - Service stopped
